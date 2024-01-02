@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "testaws1a59ec4d": {}
+      },
+      "api": {
+        "testaws": {}
       }
     }
   }
